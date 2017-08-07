@@ -2,3 +2,4 @@ Added for release 2.0
 From sprint19
 Bugfix
 Changes in master
+foo Changed something
